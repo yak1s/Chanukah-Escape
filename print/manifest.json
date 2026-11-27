@@ -1,0 +1,1869 @@
+{
+ "generated": "2026-11-27T15:48:09.450Z",
+ "locale": "en",
+ "papers": [
+  "letter",
+  "a4"
+ ],
+ "files": [
+  {
+   "id": "S1",
+   "src": "younger/S1-story-column",
+   "cat": "students",
+   "file": "younger/2-this-grade/S1-story-column.pdf",
+   "edition": "younger",
+   "group": "grade",
+   "kind": "kit",
+   "title": "S1",
+   "team": "survey",
+   "pages": 3,
+   "landscape": false,
+   "items": [
+    "COVER-P1-S-Y",
+    "S1-DRUMS-Y",
+    "S1-JOURNAL-Y"
+   ]
+  },
+  {
+   "id": "S1",
+   "src": "younger/teacher/S1-solution",
+   "cat": "answers",
+   "file": "younger/3-teacher/S1-solution.pdf",
+   "edition": "younger",
+   "group": "teacher",
+   "kind": "kit",
+   "title": "Story Column — Solution",
+   "team": "survey",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "S1-SOL-Y"
+   ]
+  },
+  {
+   "id": "S2",
+   "src": "younger/S2-storeroom",
+   "cat": "students",
+   "file": "younger/2-this-grade/S2-storeroom.pdf",
+   "edition": "younger",
+   "group": "grade",
+   "kind": "packet",
+   "title": "S2",
+   "team": "survey",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P2-S-Y",
+    "S2-LOG-Y",
+    "S2-CAND-Y",
+    "LN-S-Y"
+   ]
+  },
+  {
+   "id": "S2",
+   "src": "younger/teacher/S2-solution",
+   "cat": "answers",
+   "file": "younger/3-teacher/S2-solution.pdf",
+   "edition": "younger",
+   "group": "teacher",
+   "kind": "packet",
+   "title": "S2 — Candidate pieces of the seal",
+   "team": "survey",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "S2-SOL-Y"
+   ]
+  },
+  {
+   "id": "C1",
+   "src": "younger/C1-menorah-blueprint",
+   "cat": "students",
+   "file": "younger/2-this-grade/C1-menorah-blueprint.pdf",
+   "edition": "younger",
+   "group": "grade",
+   "kind": "kit",
+   "title": "C1",
+   "team": "conservation",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P1-C-Y",
+    "C1-BOARD-Y",
+    "C1-PIECES-Y",
+    "C1-REF-Y"
+   ]
+  },
+  {
+   "id": "C1",
+   "src": "younger/teacher/C1-solution",
+   "cat": "answers",
+   "file": "younger/3-teacher/C1-solution.pdf",
+   "edition": "younger",
+   "group": "teacher",
+   "kind": "kit",
+   "title": "Menorah Blueprint — Solution",
+   "team": "conservation",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "C1-SOL-Y"
+   ]
+  },
+  {
+   "id": "C2",
+   "src": "younger/C2-cruse",
+   "cat": "students",
+   "file": "younger/2-this-grade/C2-cruse.pdf",
+   "edition": "younger",
+   "group": "grade",
+   "kind": "packet",
+   "title": "C2",
+   "team": "conservation",
+   "pages": 5,
+   "landscape": false,
+   "items": [
+    "COVER-P2-C-Y",
+    "C2-SHERDS-Y",
+    "C2-OUTLINE-Y",
+    "C2-CAND-Y",
+    "LN-C-Y"
+   ]
+  },
+  {
+   "id": "C2",
+   "src": "younger/teacher/C2-solution",
+   "cat": "answers",
+   "file": "younger/3-teacher/C2-solution.pdf",
+   "edition": "younger",
+   "group": "teacher",
+   "kind": "packet",
+   "title": "C2 — Candidate pieces of the seal",
+   "team": "conservation",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "C2-SOL-Y"
+   ]
+  },
+  {
+   "id": "A1",
+   "src": "younger/A1-prayer-of-contrasts",
+   "cat": "students",
+   "file": "younger/2-this-grade/A1-prayer-of-contrasts.pdf",
+   "edition": "younger",
+   "group": "grade",
+   "kind": "kit",
+   "title": "A1",
+   "team": "archive",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P1-A-Y",
+    "A1-TILES-Y",
+    "A1-BOARD-Y",
+    "A1-REF-Y"
+   ]
+  },
+  {
+   "id": "A1",
+   "src": "younger/teacher/A1-solution",
+   "cat": "answers",
+   "file": "younger/3-teacher/A1-solution.pdf",
+   "edition": "younger",
+   "group": "teacher",
+   "kind": "kit",
+   "title": "Prayer of Contrasts — Solution",
+   "team": "archive",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "A1-SOL-Y"
+   ]
+  },
+  {
+   "id": "A2",
+   "src": "younger/A2-eight-days",
+   "cat": "students",
+   "file": "younger/2-this-grade/A2-eight-days.pdf",
+   "edition": "younger",
+   "group": "grade",
+   "kind": "packet",
+   "title": "A2",
+   "team": "archive",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P2-A-Y",
+    "A2-DAYS-Y",
+    "A2-CAND-Y",
+    "LN-A-Y"
+   ]
+  },
+  {
+   "id": "A2",
+   "src": "younger/teacher/A2-solution",
+   "cat": "answers",
+   "file": "younger/3-teacher/A2-solution.pdf",
+   "edition": "younger",
+   "group": "teacher",
+   "kind": "packet",
+   "title": "A2 — Candidate pieces of the seal",
+   "team": "archive",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "A2-SOL-Y"
+   ]
+  },
+  {
+   "id": "I0",
+   "src": "younger/I0-inscriptions-starter",
+   "cat": "students",
+   "file": "younger/2-this-grade/I0-inscriptions-starter.pdf",
+   "edition": "younger",
+   "group": "grade",
+   "kind": "starter",
+   "title": "How your department works",
+   "team": "inscriptions",
+   "pages": 2,
+   "landscape": false,
+   "items": [
+    "ST-INS",
+    "FR-I-Y"
+   ]
+  },
+  {
+   "id": "I1",
+   "src": "younger/I1-coin",
+   "cat": "students",
+   "file": "younger/2-this-grade/I1-coin.pdf",
+   "edition": "younger",
+   "group": "grade",
+   "kind": "kit",
+   "title": "I1",
+   "team": "inscriptions",
+   "pages": 3,
+   "landscape": false,
+   "items": [
+    "COVER-P1-I-Y",
+    "I1-COIN-Y",
+    "I1-KEY-Y"
+   ]
+  },
+  {
+   "id": "I1",
+   "src": "younger/teacher/I1-solution",
+   "cat": "answers",
+   "file": "younger/3-teacher/I1-solution.pdf",
+   "edition": "younger",
+   "group": "teacher",
+   "kind": "kit",
+   "title": "Coin of the Kohen Gadol — Solution",
+   "team": "inscriptions",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "I1-SOL-Y"
+   ]
+  },
+  {
+   "id": "I2",
+   "src": "younger/I2-seal-or-impression",
+   "cat": "students",
+   "file": "younger/2-this-grade/I2-seal-or-impression.pdf",
+   "edition": "younger",
+   "group": "grade",
+   "kind": "packet",
+   "title": "I2",
+   "team": "inscriptions",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P2-I-Y",
+    "I2-GUIDE-Y",
+    "I2-CAND-Y",
+    "LN-I-Y"
+   ]
+  },
+  {
+   "id": "I2",
+   "src": "younger/teacher/I2-solution",
+   "cat": "answers",
+   "file": "younger/3-teacher/I2-solution.pdf",
+   "edition": "younger",
+   "group": "teacher",
+   "kind": "packet",
+   "title": "I2 — Candidate pieces of the seal",
+   "team": "inscriptions",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "I2-SOL-Y"
+   ]
+  },
+  {
+   "id": "F",
+   "src": "younger/teacher/F-solution",
+   "cat": "answers",
+   "file": "younger/3-teacher/F-solution.pdf",
+   "edition": "younger",
+   "group": "teacher",
+   "kind": "finale",
+   "title": "The Storeroom jars (whole class)",
+   "team": null,
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "F-SOL-Y"
+   ]
+  },
+  {
+   "id": "FR",
+   "src": "younger/teacher/exit-lock-answers",
+   "cat": "answers",
+   "file": "younger/3-teacher/exit-lock-answers.pdf",
+   "edition": "younger",
+   "group": "teacher",
+   "kind": "report",
+   "title": "Secret door answers",
+   "team": null,
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "FR-T-Y"
+   ]
+  },
+  {
+   "id": "REC",
+   "src": "younger/expedition-records",
+   "cat": "records",
+   "file": "younger/2-this-grade/expedition-records.pdf",
+   "edition": "younger",
+   "group": "grade",
+   "kind": "record",
+   "title": "Expedition Records",
+   "team": null,
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "REC-SUR-Y",
+    "REC-CON-Y",
+    "REC-ARC-Y",
+    "REC-INS-Y"
+   ]
+  },
+  {
+   "id": "SQ",
+   "src": "younger/side-quest-cards",
+   "cat": "sidequests",
+   "file": "younger/2-this-grade/side-quest-cards.pdf",
+   "edition": "younger",
+   "group": "grade",
+   "kind": "sidequest",
+   "title": "Field task cards",
+   "team": null,
+   "pages": 7,
+   "landscape": false,
+   "items": [
+    "SQ-01-Y",
+    "SQ-02-Y",
+    "SQ-03-Y",
+    "SQ-04-Y",
+    "SQ-08-Y",
+    "SQ-09-Y",
+    "SQ-10-Y"
+   ]
+  },
+  {
+   "id": "TG",
+   "src": "younger/teacher/teacher-guide",
+   "cat": "setup",
+   "file": "younger/3-teacher/teacher-guide.pdf",
+   "edition": "younger",
+   "group": "teacher",
+   "kind": "teacher",
+   "title": "Teacher Guide",
+   "team": null,
+   "pages": 7,
+   "landscape": false,
+   "items": [
+    "TG-1-Y",
+    "TG-2-Y",
+    "TG-3-Y",
+    "TG-4-Y",
+    "TG-5-Y",
+    "TG-6-Y",
+    "TG-7-Y"
+   ]
+  },
+  {
+   "id": "S0",
+   "src": "older/S0-survey-starter",
+   "cat": "students",
+   "file": "all/1-every-class/S0-survey-starter.pdf",
+   "edition": "all",
+   "group": "all",
+   "kind": "starter",
+   "title": "How your department works",
+   "team": "survey",
+   "pages": 2,
+   "landscape": false,
+   "items": [
+    "ST-SUR",
+    "FR-S-O"
+   ]
+  },
+  {
+   "id": "S1",
+   "src": "older/S1-story-column",
+   "cat": "students",
+   "file": "older/2-this-grade/S1-story-column.pdf",
+   "edition": "older",
+   "group": "grade",
+   "kind": "kit",
+   "title": "S1",
+   "team": "survey",
+   "pages": 3,
+   "landscape": false,
+   "items": [
+    "COVER-P1-S-O",
+    "S1-DRUMS-O",
+    "S1-JOURNAL-O"
+   ]
+  },
+  {
+   "id": "S1",
+   "src": "older/teacher/S1-solution",
+   "cat": "answers",
+   "file": "older/3-teacher/S1-solution.pdf",
+   "edition": "older",
+   "group": "teacher",
+   "kind": "kit",
+   "title": "Story Column — Solution",
+   "team": "survey",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "S1-SOL-O"
+   ]
+  },
+  {
+   "id": "S2",
+   "src": "older/S2-storeroom",
+   "cat": "students",
+   "file": "older/2-this-grade/S2-storeroom.pdf",
+   "edition": "older",
+   "group": "grade",
+   "kind": "packet",
+   "title": "S2",
+   "team": "survey",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P2-S-O",
+    "S2-LOG-O",
+    "S2-CAND-O",
+    "LN-S-O"
+   ]
+  },
+  {
+   "id": "S2",
+   "src": "older/teacher/S2-solution",
+   "cat": "answers",
+   "file": "older/3-teacher/S2-solution.pdf",
+   "edition": "older",
+   "group": "teacher",
+   "kind": "packet",
+   "title": "S2 — Candidate pieces of the seal",
+   "team": "survey",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "S2-SOL-O"
+   ]
+  },
+  {
+   "id": "C0",
+   "src": "older/C0-conservation-starter",
+   "cat": "students",
+   "file": "all/1-every-class/C0-conservation-starter.pdf",
+   "edition": "all",
+   "group": "all",
+   "kind": "starter",
+   "title": "How your department works",
+   "team": "conservation",
+   "pages": 2,
+   "landscape": false,
+   "items": [
+    "ST-CON",
+    "FR-C-O"
+   ]
+  },
+  {
+   "id": "C1",
+   "src": "older/C1-menorah-blueprint",
+   "cat": "students",
+   "file": "older/2-this-grade/C1-menorah-blueprint.pdf",
+   "edition": "older",
+   "group": "grade",
+   "kind": "kit",
+   "title": "C1",
+   "team": "conservation",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P1-C-O",
+    "C1-BOARD-O",
+    "C1-PIECES-O",
+    "C1-REF-O"
+   ]
+  },
+  {
+   "id": "C1",
+   "src": "older/teacher/C1-solution",
+   "cat": "answers",
+   "file": "older/3-teacher/C1-solution.pdf",
+   "edition": "older",
+   "group": "teacher",
+   "kind": "kit",
+   "title": "Menorah Blueprint — Solution",
+   "team": "conservation",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "C1-SOL-O"
+   ]
+  },
+  {
+   "id": "C2",
+   "src": "older/C2-cruse",
+   "cat": "students",
+   "file": "older/2-this-grade/C2-cruse.pdf",
+   "edition": "older",
+   "group": "grade",
+   "kind": "packet",
+   "title": "C2",
+   "team": "conservation",
+   "pages": 5,
+   "landscape": false,
+   "items": [
+    "COVER-P2-C-O",
+    "C2-SHERDS-O",
+    "C2-OUTLINE-O",
+    "C2-CAND-O",
+    "LN-C-O"
+   ]
+  },
+  {
+   "id": "C2",
+   "src": "older/teacher/C2-solution",
+   "cat": "answers",
+   "file": "older/3-teacher/C2-solution.pdf",
+   "edition": "older",
+   "group": "teacher",
+   "kind": "packet",
+   "title": "C2 — Candidate pieces of the seal",
+   "team": "conservation",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "C2-SOL-O"
+   ]
+  },
+  {
+   "id": "A0",
+   "src": "older/A0-archive-starter",
+   "cat": "students",
+   "file": "all/1-every-class/A0-archive-starter.pdf",
+   "edition": "all",
+   "group": "all",
+   "kind": "starter",
+   "title": "How your department works",
+   "team": "archive",
+   "pages": 2,
+   "landscape": false,
+   "items": [
+    "ST-ARC",
+    "FR-A-O"
+   ]
+  },
+  {
+   "id": "A1",
+   "src": "older/A1-prayer-of-contrasts",
+   "cat": "students",
+   "file": "older/2-this-grade/A1-prayer-of-contrasts.pdf",
+   "edition": "older",
+   "group": "grade",
+   "kind": "kit",
+   "title": "A1",
+   "team": "archive",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P1-A-O",
+    "A1-TILES-O",
+    "A1-BOARD-O",
+    "A1-REF-O"
+   ]
+  },
+  {
+   "id": "A1",
+   "src": "older/teacher/A1-solution",
+   "cat": "answers",
+   "file": "older/3-teacher/A1-solution.pdf",
+   "edition": "older",
+   "group": "teacher",
+   "kind": "kit",
+   "title": "Prayer of Contrasts — Solution",
+   "team": "archive",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "A1-SOL-O"
+   ]
+  },
+  {
+   "id": "A2",
+   "src": "older/A2-eight-days",
+   "cat": "students",
+   "file": "older/2-this-grade/A2-eight-days.pdf",
+   "edition": "older",
+   "group": "grade",
+   "kind": "packet",
+   "title": "A2",
+   "team": "archive",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P2-A-O",
+    "A2-DAYS-O",
+    "A2-CAND-O",
+    "LN-A-O"
+   ]
+  },
+  {
+   "id": "A2",
+   "src": "older/teacher/A2-solution",
+   "cat": "answers",
+   "file": "older/3-teacher/A2-solution.pdf",
+   "edition": "older",
+   "group": "teacher",
+   "kind": "packet",
+   "title": "A2 — Candidate pieces of the seal",
+   "team": "archive",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "A2-SOL-O"
+   ]
+  },
+  {
+   "id": "I0",
+   "src": "older/I0-inscriptions-starter",
+   "cat": "students",
+   "file": "younger/2-this-grade/I0-inscriptions-starter.pdf",
+   "edition": "older",
+   "group": "grade",
+   "kind": "starter",
+   "title": "How your department works",
+   "team": "inscriptions",
+   "pages": 2,
+   "landscape": false,
+   "items": [
+    "ST-INS",
+    "FR-I-Y"
+   ]
+  },
+  {
+   "id": "I1",
+   "src": "older/I1-coin",
+   "cat": "students",
+   "file": "older/2-this-grade/I1-coin.pdf",
+   "edition": "older",
+   "group": "grade",
+   "kind": "kit",
+   "title": "I1",
+   "team": "inscriptions",
+   "pages": 3,
+   "landscape": false,
+   "items": [
+    "COVER-P1-I-O",
+    "I1-COIN-O",
+    "I1-KEY-O"
+   ]
+  },
+  {
+   "id": "I1",
+   "src": "older/teacher/I1-solution",
+   "cat": "answers",
+   "file": "older/3-teacher/I1-solution.pdf",
+   "edition": "older",
+   "group": "teacher",
+   "kind": "kit",
+   "title": "Coin of the Kohen Gadol — Solution",
+   "team": "inscriptions",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "I1-SOL-O"
+   ]
+  },
+  {
+   "id": "I2",
+   "src": "older/I2-seal-or-impression",
+   "cat": "students",
+   "file": "older/2-this-grade/I2-seal-or-impression.pdf",
+   "edition": "older",
+   "group": "grade",
+   "kind": "packet",
+   "title": "I2",
+   "team": "inscriptions",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P2-I-O",
+    "I2-GUIDE-O",
+    "I2-CAND-O",
+    "LN-I-O"
+   ]
+  },
+  {
+   "id": "I2",
+   "src": "older/teacher/I2-solution",
+   "cat": "answers",
+   "file": "older/3-teacher/I2-solution.pdf",
+   "edition": "older",
+   "group": "teacher",
+   "kind": "packet",
+   "title": "I2 — Candidate pieces of the seal",
+   "team": "inscriptions",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "I2-SOL-O"
+   ]
+  },
+  {
+   "id": "F",
+   "src": "older/teacher/F-solution",
+   "cat": "answers",
+   "file": "older/3-teacher/F-solution.pdf",
+   "edition": "older",
+   "group": "teacher",
+   "kind": "finale",
+   "title": "The Storeroom jars (whole class)",
+   "team": null,
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "F-SOL-O"
+   ]
+  },
+  {
+   "id": "FR",
+   "src": "older/teacher/exit-lock-answers",
+   "cat": "answers",
+   "file": "younger/3-teacher/exit-lock-answers.pdf",
+   "edition": "older",
+   "group": "teacher",
+   "kind": "report",
+   "title": "Secret door answers",
+   "team": null,
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "FR-T-Y"
+   ]
+  },
+  {
+   "id": "REC",
+   "src": "older/expedition-records",
+   "cat": "records",
+   "file": "older/2-this-grade/expedition-records.pdf",
+   "edition": "older",
+   "group": "grade",
+   "kind": "record",
+   "title": "Expedition Records",
+   "team": null,
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "REC-SUR-O",
+    "REC-CON-O",
+    "REC-ARC-O",
+    "REC-INS-O"
+   ]
+  },
+  {
+   "id": "SQ",
+   "src": "older/side-quest-cards",
+   "cat": "sidequests",
+   "file": "older/2-this-grade/side-quest-cards.pdf",
+   "edition": "older",
+   "group": "grade",
+   "kind": "sidequest",
+   "title": "Field task cards",
+   "team": null,
+   "pages": 10,
+   "landscape": false,
+   "items": [
+    "SQ-01-O",
+    "SQ-02-O",
+    "SQ-03-O",
+    "SQ-04-O",
+    "SQ-05-O",
+    "SQ-06-O",
+    "SQ-07-O",
+    "SQ-08-O",
+    "SQ-09-O",
+    "SQ-10-O"
+   ]
+  },
+  {
+   "id": "TS",
+   "src": "older/prep/table-signs",
+   "cat": "setup",
+   "file": "all/1-every-class/table-signs.pdf",
+   "edition": "all",
+   "group": "all",
+   "kind": "covers",
+   "title": "Table signs",
+   "team": null,
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "SIGN-SUR-O",
+    "SIGN-CON-O",
+    "SIGN-ARC-O",
+    "SIGN-INS-O"
+   ]
+  },
+  {
+   "id": "TG",
+   "src": "older/teacher/teacher-guide",
+   "cat": "setup",
+   "file": "older/3-teacher/teacher-guide.pdf",
+   "edition": "older",
+   "group": "teacher",
+   "kind": "teacher",
+   "title": "Teacher Guide",
+   "team": null,
+   "pages": 8,
+   "landscape": false,
+   "items": [
+    "TG-1-O",
+    "TG-2-O",
+    "TG-3-O",
+    "TG-4-O",
+    "TG-5-O",
+    "TG-6-O",
+    "TG-7-O",
+    "TG-8-O"
+   ]
+  },
+  {
+   "id": "S1",
+   "src": "l3/S1-story-column",
+   "cat": "students",
+   "file": "l3/2-this-grade/S1-story-column.pdf",
+   "edition": "l3",
+   "group": "grade",
+   "kind": "kit",
+   "title": "S1",
+   "team": "survey",
+   "pages": 3,
+   "landscape": false,
+   "items": [
+    "COVER-P1-S-3",
+    "S1-DRUMS-3",
+    "S1-JOURNAL-3"
+   ]
+  },
+  {
+   "id": "S1",
+   "src": "l3/teacher/S1-solution",
+   "cat": "answers",
+   "file": "l3/3-teacher/S1-solution.pdf",
+   "edition": "l3",
+   "group": "teacher",
+   "kind": "kit",
+   "title": "Story Column — Solution",
+   "team": "survey",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "S1-SOL-3"
+   ]
+  },
+  {
+   "id": "S2",
+   "src": "l3/S2-storeroom",
+   "cat": "students",
+   "file": "l3/2-this-grade/S2-storeroom.pdf",
+   "edition": "l3",
+   "group": "grade",
+   "kind": "packet",
+   "title": "S2",
+   "team": "survey",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P2-S-3",
+    "S2-LOG-3",
+    "S2-CAND-3",
+    "LN-S-3"
+   ]
+  },
+  {
+   "id": "S2",
+   "src": "l3/teacher/S2-solution",
+   "cat": "answers",
+   "file": "l3/3-teacher/S2-solution.pdf",
+   "edition": "l3",
+   "group": "teacher",
+   "kind": "packet",
+   "title": "S2 — Candidate pieces of the seal",
+   "team": "survey",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "S2-SOL-3"
+   ]
+  },
+  {
+   "id": "C1",
+   "src": "l3/C1-menorah-blueprint",
+   "cat": "students",
+   "file": "l3/2-this-grade/C1-menorah-blueprint.pdf",
+   "edition": "l3",
+   "group": "grade",
+   "kind": "kit",
+   "title": "C1",
+   "team": "conservation",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P1-C-3",
+    "C1-BOARD-3",
+    "C1-PIECES-3",
+    "C1-REF-3"
+   ]
+  },
+  {
+   "id": "C1",
+   "src": "l3/teacher/C1-solution",
+   "cat": "answers",
+   "file": "l3/3-teacher/C1-solution.pdf",
+   "edition": "l3",
+   "group": "teacher",
+   "kind": "kit",
+   "title": "Menorah Blueprint — Solution",
+   "team": "conservation",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "C1-SOL-3"
+   ]
+  },
+  {
+   "id": "C2",
+   "src": "l3/C2-cruse",
+   "cat": "students",
+   "file": "l3/2-this-grade/C2-cruse.pdf",
+   "edition": "l3",
+   "group": "grade",
+   "kind": "packet",
+   "title": "C2",
+   "team": "conservation",
+   "pages": 5,
+   "landscape": false,
+   "items": [
+    "COVER-P2-C-3",
+    "C2-SHERDS-3",
+    "C2-OUTLINE-3",
+    "C2-CAND-3",
+    "LN-C-3"
+   ]
+  },
+  {
+   "id": "C2",
+   "src": "l3/teacher/C2-solution",
+   "cat": "answers",
+   "file": "l3/3-teacher/C2-solution.pdf",
+   "edition": "l3",
+   "group": "teacher",
+   "kind": "packet",
+   "title": "C2 — Candidate pieces of the seal",
+   "team": "conservation",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "C2-SOL-3"
+   ]
+  },
+  {
+   "id": "A1",
+   "src": "l3/A1-prayer-of-contrasts",
+   "cat": "students",
+   "file": "l3/2-this-grade/A1-prayer-of-contrasts.pdf",
+   "edition": "l3",
+   "group": "grade",
+   "kind": "kit",
+   "title": "A1",
+   "team": "archive",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P1-A-3",
+    "A1-TILES-3",
+    "A1-BOARD-3",
+    "A1-REF-3"
+   ]
+  },
+  {
+   "id": "A1",
+   "src": "l3/teacher/A1-solution",
+   "cat": "answers",
+   "file": "l3/3-teacher/A1-solution.pdf",
+   "edition": "l3",
+   "group": "teacher",
+   "kind": "kit",
+   "title": "Prayer of Contrasts — Solution",
+   "team": "archive",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "A1-SOL-3"
+   ]
+  },
+  {
+   "id": "A2",
+   "src": "l3/A2-eight-days",
+   "cat": "students",
+   "file": "l3/2-this-grade/A2-eight-days.pdf",
+   "edition": "l3",
+   "group": "grade",
+   "kind": "packet",
+   "title": "A2",
+   "team": "archive",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P2-A-3",
+    "A2-DAYS-3",
+    "A2-CAND-3",
+    "LN-A-3"
+   ]
+  },
+  {
+   "id": "A2",
+   "src": "l3/teacher/A2-solution",
+   "cat": "answers",
+   "file": "l3/3-teacher/A2-solution.pdf",
+   "edition": "l3",
+   "group": "teacher",
+   "kind": "packet",
+   "title": "A2 — Candidate pieces of the seal",
+   "team": "archive",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "A2-SOL-3"
+   ]
+  },
+  {
+   "id": "I0",
+   "src": "l3/I0-inscriptions-starter",
+   "cat": "students",
+   "file": "l3/2-this-grade/I0-inscriptions-starter.pdf",
+   "edition": "l3",
+   "group": "grade",
+   "kind": "starter",
+   "title": "How your department works",
+   "team": "inscriptions",
+   "pages": 2,
+   "landscape": false,
+   "items": [
+    "ST-INS",
+    "FR-I-3"
+   ]
+  },
+  {
+   "id": "I1",
+   "src": "l3/I1-coin",
+   "cat": "students",
+   "file": "l3/2-this-grade/I1-coin.pdf",
+   "edition": "l3",
+   "group": "grade",
+   "kind": "kit",
+   "title": "I1",
+   "team": "inscriptions",
+   "pages": 3,
+   "landscape": false,
+   "items": [
+    "COVER-P1-I-3",
+    "I1-COIN-3",
+    "I1-KEY-3"
+   ]
+  },
+  {
+   "id": "I1",
+   "src": "l3/teacher/I1-solution",
+   "cat": "answers",
+   "file": "older/3-teacher/I1-solution.pdf",
+   "edition": "l3",
+   "group": "teacher",
+   "kind": "kit",
+   "title": "Coin of the Kohen Gadol — Solution",
+   "team": "inscriptions",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "I1-SOL-O"
+   ]
+  },
+  {
+   "id": "I2",
+   "src": "l3/I2-seal-or-impression",
+   "cat": "students",
+   "file": "l3/2-this-grade/I2-seal-or-impression.pdf",
+   "edition": "l3",
+   "group": "grade",
+   "kind": "packet",
+   "title": "I2",
+   "team": "inscriptions",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P2-I-3",
+    "I2-GUIDE-3",
+    "I2-CAND-3",
+    "LN-I-3"
+   ]
+  },
+  {
+   "id": "I2",
+   "src": "l3/teacher/I2-solution",
+   "cat": "answers",
+   "file": "l3/3-teacher/I2-solution.pdf",
+   "edition": "l3",
+   "group": "teacher",
+   "kind": "packet",
+   "title": "I2 — Candidate pieces of the seal",
+   "team": "inscriptions",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "I2-SOL-3"
+   ]
+  },
+  {
+   "id": "F",
+   "src": "l3/teacher/F-solution",
+   "cat": "answers",
+   "file": "older/3-teacher/F-solution.pdf",
+   "edition": "l3",
+   "group": "teacher",
+   "kind": "finale",
+   "title": "The Storeroom jars (whole class)",
+   "team": null,
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "F-SOL-O"
+   ]
+  },
+  {
+   "id": "FR",
+   "src": "l3/teacher/exit-lock-answers",
+   "cat": "answers",
+   "file": "younger/3-teacher/exit-lock-answers.pdf",
+   "edition": "l3",
+   "group": "teacher",
+   "kind": "report",
+   "title": "Secret door answers",
+   "team": null,
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "FR-T-Y"
+   ]
+  },
+  {
+   "id": "REC",
+   "src": "l3/expedition-records",
+   "cat": "records",
+   "file": "older/2-this-grade/expedition-records.pdf",
+   "edition": "l3",
+   "group": "grade",
+   "kind": "record",
+   "title": "Expedition Records",
+   "team": null,
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "REC-SUR-O",
+    "REC-CON-O",
+    "REC-ARC-O",
+    "REC-INS-O"
+   ]
+  },
+  {
+   "id": "SQ",
+   "src": "l3/side-quest-cards",
+   "cat": "sidequests",
+   "file": "l3/2-this-grade/side-quest-cards.pdf",
+   "edition": "l3",
+   "group": "grade",
+   "kind": "sidequest",
+   "title": "Field task cards",
+   "team": null,
+   "pages": 10,
+   "landscape": false,
+   "items": [
+    "SQ-01-3",
+    "SQ-02-3",
+    "SQ-03-3",
+    "SQ-04-3",
+    "SQ-05-3",
+    "SQ-06-3",
+    "SQ-07-3",
+    "SQ-08-3",
+    "SQ-09-3",
+    "SQ-10-3"
+   ]
+  },
+  {
+   "id": "TG",
+   "src": "l3/teacher/teacher-guide",
+   "cat": "setup",
+   "file": "l3/3-teacher/teacher-guide.pdf",
+   "edition": "l3",
+   "group": "teacher",
+   "kind": "teacher",
+   "title": "Teacher Guide",
+   "team": null,
+   "pages": 7,
+   "landscape": false,
+   "items": [
+    "TG-1-3",
+    "TG-2-3",
+    "TG-3-3",
+    "TG-4-3",
+    "TG-5-3",
+    "TG-6-3",
+    "TG-7-3"
+   ]
+  },
+  {
+   "id": "S1",
+   "src": "l4/S1-story-column",
+   "cat": "students",
+   "file": "l4/2-this-grade/S1-story-column.pdf",
+   "edition": "l4",
+   "group": "grade",
+   "kind": "kit",
+   "title": "S1",
+   "team": "survey",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P1-S-4",
+    "S1-DRUMS1-4",
+    "S1-DRUMS2-4",
+    "S1-JOURNAL-4"
+   ]
+  },
+  {
+   "id": "S1",
+   "src": "l4/teacher/S1-solution",
+   "cat": "answers",
+   "file": "l4/3-teacher/S1-solution.pdf",
+   "edition": "l4",
+   "group": "teacher",
+   "kind": "kit",
+   "title": "Story Column — Solution",
+   "team": "survey",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "S1-SOL-4"
+   ]
+  },
+  {
+   "id": "S2",
+   "src": "l4/S2-storeroom",
+   "cat": "students",
+   "file": "l4/2-this-grade/S2-storeroom.pdf",
+   "edition": "l4",
+   "group": "grade",
+   "kind": "packet",
+   "title": "S2",
+   "team": "survey",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P2-S-4",
+    "S2-LOG-4",
+    "S2-CAND-4",
+    "LN-S-4"
+   ]
+  },
+  {
+   "id": "S2",
+   "src": "l4/teacher/S2-solution",
+   "cat": "answers",
+   "file": "l3/3-teacher/S2-solution.pdf",
+   "edition": "l4",
+   "group": "teacher",
+   "kind": "packet",
+   "title": "S2 — Candidate pieces of the seal",
+   "team": "survey",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "S2-SOL-3"
+   ]
+  },
+  {
+   "id": "C1",
+   "src": "l4/C1-menorah-blueprint",
+   "cat": "students",
+   "file": "l4/2-this-grade/C1-menorah-blueprint.pdf",
+   "edition": "l4",
+   "group": "grade",
+   "kind": "kit",
+   "title": "C1",
+   "team": "conservation",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P1-C-4",
+    "C1-BOARD-4",
+    "C1-PIECES-4",
+    "C1-REF-4"
+   ]
+  },
+  {
+   "id": "C1",
+   "src": "l4/teacher/C1-solution",
+   "cat": "answers",
+   "file": "l4/3-teacher/C1-solution.pdf",
+   "edition": "l4",
+   "group": "teacher",
+   "kind": "kit",
+   "title": "Menorah Blueprint — Solution",
+   "team": "conservation",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "C1-SOL-4"
+   ]
+  },
+  {
+   "id": "C2",
+   "src": "l4/C2-cruse",
+   "cat": "students",
+   "file": "l4/2-this-grade/C2-cruse.pdf",
+   "edition": "l4",
+   "group": "grade",
+   "kind": "packet",
+   "title": "C2",
+   "team": "conservation",
+   "pages": 5,
+   "landscape": false,
+   "items": [
+    "COVER-P2-C-4",
+    "C2-SHERDS-4",
+    "C2-OUTLINE-4",
+    "C2-CAND-4",
+    "LN-C-4"
+   ]
+  },
+  {
+   "id": "C2",
+   "src": "l4/teacher/C2-solution",
+   "cat": "answers",
+   "file": "l3/3-teacher/C2-solution.pdf",
+   "edition": "l4",
+   "group": "teacher",
+   "kind": "packet",
+   "title": "C2 — Candidate pieces of the seal",
+   "team": "conservation",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "C2-SOL-3"
+   ]
+  },
+  {
+   "id": "A1",
+   "src": "l4/A1-prayer-of-contrasts",
+   "cat": "students",
+   "file": "l4/2-this-grade/A1-prayer-of-contrasts.pdf",
+   "edition": "l4",
+   "group": "grade",
+   "kind": "kit",
+   "title": "A1",
+   "team": "archive",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P1-A-4",
+    "A1-TILES-4",
+    "A1-BOARD-4",
+    "A1-REF-4"
+   ]
+  },
+  {
+   "id": "A1",
+   "src": "l4/teacher/A1-solution",
+   "cat": "answers",
+   "file": "l4/3-teacher/A1-solution.pdf",
+   "edition": "l4",
+   "group": "teacher",
+   "kind": "kit",
+   "title": "Prayer of Contrasts — Solution",
+   "team": "archive",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "A1-SOL-4"
+   ]
+  },
+  {
+   "id": "A2",
+   "src": "l4/A2-eight-days",
+   "cat": "students",
+   "file": "l4/2-this-grade/A2-eight-days.pdf",
+   "edition": "l4",
+   "group": "grade",
+   "kind": "packet",
+   "title": "A2",
+   "team": "archive",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P2-A-4",
+    "A2-DAYS-4",
+    "A2-CAND-4",
+    "LN-A-4"
+   ]
+  },
+  {
+   "id": "A2",
+   "src": "l4/teacher/A2-solution",
+   "cat": "answers",
+   "file": "l3/3-teacher/A2-solution.pdf",
+   "edition": "l4",
+   "group": "teacher",
+   "kind": "packet",
+   "title": "A2 — Candidate pieces of the seal",
+   "team": "archive",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "A2-SOL-3"
+   ]
+  },
+  {
+   "id": "I0",
+   "src": "l4/I0-inscriptions-starter",
+   "cat": "students",
+   "file": "l4/2-this-grade/I0-inscriptions-starter.pdf",
+   "edition": "l4",
+   "group": "grade",
+   "kind": "starter",
+   "title": "How your department works",
+   "team": "inscriptions",
+   "pages": 2,
+   "landscape": false,
+   "items": [
+    "ST-INS",
+    "FR-I-4"
+   ]
+  },
+  {
+   "id": "I1",
+   "src": "l4/I1-coin",
+   "cat": "students",
+   "file": "l4/2-this-grade/I1-coin.pdf",
+   "edition": "l4",
+   "group": "grade",
+   "kind": "kit",
+   "title": "I1",
+   "team": "inscriptions",
+   "pages": 3,
+   "landscape": false,
+   "items": [
+    "COVER-P1-I-4",
+    "I1-COIN-4",
+    "I1-KEY-4"
+   ]
+  },
+  {
+   "id": "I1",
+   "src": "l4/teacher/I1-solution",
+   "cat": "answers",
+   "file": "older/3-teacher/I1-solution.pdf",
+   "edition": "l4",
+   "group": "teacher",
+   "kind": "kit",
+   "title": "Coin of the Kohen Gadol — Solution",
+   "team": "inscriptions",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "I1-SOL-O"
+   ]
+  },
+  {
+   "id": "I2",
+   "src": "l4/I2-seal-or-impression",
+   "cat": "students",
+   "file": "l4/2-this-grade/I2-seal-or-impression.pdf",
+   "edition": "l4",
+   "group": "grade",
+   "kind": "packet",
+   "title": "I2",
+   "team": "inscriptions",
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "COVER-P2-I-4",
+    "I2-GUIDE-4",
+    "I2-CAND-4",
+    "LN-I-4"
+   ]
+  },
+  {
+   "id": "I2",
+   "src": "l4/teacher/I2-solution",
+   "cat": "answers",
+   "file": "l3/3-teacher/I2-solution.pdf",
+   "edition": "l4",
+   "group": "teacher",
+   "kind": "packet",
+   "title": "I2 — Candidate pieces of the seal",
+   "team": "inscriptions",
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "I2-SOL-3"
+   ]
+  },
+  {
+   "id": "F",
+   "src": "l4/teacher/F-solution",
+   "cat": "answers",
+   "file": "older/3-teacher/F-solution.pdf",
+   "edition": "l4",
+   "group": "teacher",
+   "kind": "finale",
+   "title": "The Storeroom jars (whole class)",
+   "team": null,
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "F-SOL-O"
+   ]
+  },
+  {
+   "id": "FR",
+   "src": "l4/teacher/exit-lock-answers",
+   "cat": "answers",
+   "file": "l4/3-teacher/exit-lock-answers.pdf",
+   "edition": "l4",
+   "group": "teacher",
+   "kind": "report",
+   "title": "Secret door answers",
+   "team": null,
+   "pages": 1,
+   "landscape": false,
+   "items": [
+    "FR-T-4"
+   ]
+  },
+  {
+   "id": "REC",
+   "src": "l4/expedition-records",
+   "cat": "records",
+   "file": "older/2-this-grade/expedition-records.pdf",
+   "edition": "l4",
+   "group": "grade",
+   "kind": "record",
+   "title": "Expedition Records",
+   "team": null,
+   "pages": 4,
+   "landscape": false,
+   "items": [
+    "REC-SUR-O",
+    "REC-CON-O",
+    "REC-ARC-O",
+    "REC-INS-O"
+   ]
+  },
+  {
+   "id": "SQ",
+   "src": "l4/side-quest-cards",
+   "cat": "sidequests",
+   "file": "l4/2-this-grade/side-quest-cards.pdf",
+   "edition": "l4",
+   "group": "grade",
+   "kind": "sidequest",
+   "title": "Field task cards",
+   "team": null,
+   "pages": 9,
+   "landscape": false,
+   "items": [
+    "SQ-01-4",
+    "SQ-02-4",
+    "SQ-03-4",
+    "SQ-04-4",
+    "SQ-05-4",
+    "SQ-06-4",
+    "SQ-07-4",
+    "SQ-08-4",
+    "SQ-10-4"
+   ]
+  },
+  {
+   "id": "TG",
+   "src": "l4/teacher/teacher-guide",
+   "cat": "setup",
+   "file": "l4/3-teacher/teacher-guide.pdf",
+   "edition": "l4",
+   "group": "teacher",
+   "kind": "teacher",
+   "title": "Teacher Guide",
+   "team": null,
+   "pages": 8,
+   "landscape": false,
+   "items": [
+    "TG-1-4",
+    "TG-2-4",
+    "TG-3-4",
+    "TG-4-4",
+    "TG-5-4",
+    "TG-6-4",
+    "TG-7-4",
+    "TG-8-4"
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "edition": "younger",
+   "cat": "setup",
+   "pages": 11,
+   "files": [
+    "younger/3-teacher/teacher-guide.pdf",
+    "all/1-every-class/table-signs.pdf"
+   ]
+  },
+  {
+   "edition": "younger",
+   "cat": "students",
+   "pages": 39,
+   "files": [
+    "all/1-every-class/S0-survey-starter.pdf",
+    "all/1-every-class/C0-conservation-starter.pdf",
+    "all/1-every-class/A0-archive-starter.pdf",
+    "younger/2-this-grade/I0-inscriptions-starter.pdf",
+    "younger/2-this-grade/S1-story-column.pdf",
+    "younger/2-this-grade/C1-menorah-blueprint.pdf",
+    "younger/2-this-grade/A1-prayer-of-contrasts.pdf",
+    "younger/2-this-grade/I1-coin.pdf",
+    "younger/2-this-grade/S2-storeroom.pdf",
+    "younger/2-this-grade/C2-cruse.pdf",
+    "younger/2-this-grade/A2-eight-days.pdf",
+    "younger/2-this-grade/I2-seal-or-impression.pdf"
+   ]
+  },
+  {
+   "edition": "younger",
+   "cat": "sidequests",
+   "pages": 7,
+   "files": [
+    "younger/2-this-grade/side-quest-cards.pdf"
+   ]
+  },
+  {
+   "edition": "younger",
+   "cat": "answers",
+   "pages": 10,
+   "files": [
+    "younger/3-teacher/exit-lock-answers.pdf",
+    "younger/3-teacher/S1-solution.pdf",
+    "younger/3-teacher/C1-solution.pdf",
+    "younger/3-teacher/A1-solution.pdf",
+    "younger/3-teacher/I1-solution.pdf",
+    "younger/3-teacher/S2-solution.pdf",
+    "younger/3-teacher/C2-solution.pdf",
+    "younger/3-teacher/A2-solution.pdf",
+    "younger/3-teacher/I2-solution.pdf",
+    "younger/3-teacher/F-solution.pdf"
+   ]
+  },
+  {
+   "edition": "older",
+   "cat": "setup",
+   "pages": 12,
+   "files": [
+    "older/3-teacher/teacher-guide.pdf",
+    "all/1-every-class/table-signs.pdf"
+   ]
+  },
+  {
+   "edition": "older",
+   "cat": "students",
+   "pages": 39,
+   "files": [
+    "all/1-every-class/S0-survey-starter.pdf",
+    "all/1-every-class/C0-conservation-starter.pdf",
+    "all/1-every-class/A0-archive-starter.pdf",
+    "younger/2-this-grade/I0-inscriptions-starter.pdf",
+    "older/2-this-grade/S1-story-column.pdf",
+    "older/2-this-grade/C1-menorah-blueprint.pdf",
+    "older/2-this-grade/A1-prayer-of-contrasts.pdf",
+    "older/2-this-grade/I1-coin.pdf",
+    "older/2-this-grade/S2-storeroom.pdf",
+    "older/2-this-grade/C2-cruse.pdf",
+    "older/2-this-grade/A2-eight-days.pdf",
+    "older/2-this-grade/I2-seal-or-impression.pdf"
+   ]
+  },
+  {
+   "edition": "older",
+   "cat": "sidequests",
+   "pages": 10,
+   "files": [
+    "older/2-this-grade/side-quest-cards.pdf"
+   ]
+  },
+  {
+   "edition": "older",
+   "cat": "answers",
+   "pages": 10,
+   "files": [
+    "younger/3-teacher/exit-lock-answers.pdf",
+    "older/3-teacher/S1-solution.pdf",
+    "older/3-teacher/C1-solution.pdf",
+    "older/3-teacher/A1-solution.pdf",
+    "older/3-teacher/I1-solution.pdf",
+    "older/3-teacher/S2-solution.pdf",
+    "older/3-teacher/C2-solution.pdf",
+    "older/3-teacher/A2-solution.pdf",
+    "older/3-teacher/I2-solution.pdf",
+    "older/3-teacher/F-solution.pdf"
+   ]
+  },
+  {
+   "edition": "l3",
+   "cat": "setup",
+   "pages": 11,
+   "files": [
+    "l3/3-teacher/teacher-guide.pdf",
+    "all/1-every-class/table-signs.pdf"
+   ]
+  },
+  {
+   "edition": "l3",
+   "cat": "students",
+   "pages": 39,
+   "files": [
+    "all/1-every-class/S0-survey-starter.pdf",
+    "all/1-every-class/C0-conservation-starter.pdf",
+    "all/1-every-class/A0-archive-starter.pdf",
+    "l3/2-this-grade/I0-inscriptions-starter.pdf",
+    "l3/2-this-grade/S1-story-column.pdf",
+    "l3/2-this-grade/C1-menorah-blueprint.pdf",
+    "l3/2-this-grade/A1-prayer-of-contrasts.pdf",
+    "l3/2-this-grade/I1-coin.pdf",
+    "l3/2-this-grade/S2-storeroom.pdf",
+    "l3/2-this-grade/C2-cruse.pdf",
+    "l3/2-this-grade/A2-eight-days.pdf",
+    "l3/2-this-grade/I2-seal-or-impression.pdf"
+   ]
+  },
+  {
+   "edition": "l3",
+   "cat": "sidequests",
+   "pages": 10,
+   "files": [
+    "l3/2-this-grade/side-quest-cards.pdf"
+   ]
+  },
+  {
+   "edition": "l3",
+   "cat": "answers",
+   "pages": 10,
+   "files": [
+    "younger/3-teacher/exit-lock-answers.pdf",
+    "l3/3-teacher/S1-solution.pdf",
+    "l3/3-teacher/C1-solution.pdf",
+    "l3/3-teacher/A1-solution.pdf",
+    "older/3-teacher/I1-solution.pdf",
+    "l3/3-teacher/S2-solution.pdf",
+    "l3/3-teacher/C2-solution.pdf",
+    "l3/3-teacher/A2-solution.pdf",
+    "l3/3-teacher/I2-solution.pdf",
+    "older/3-teacher/F-solution.pdf"
+   ]
+  },
+  {
+   "edition": "l4",
+   "cat": "setup",
+   "pages": 12,
+   "files": [
+    "l4/3-teacher/teacher-guide.pdf",
+    "all/1-every-class/table-signs.pdf"
+   ]
+  },
+  {
+   "edition": "l4",
+   "cat": "students",
+   "pages": 40,
+   "files": [
+    "all/1-every-class/S0-survey-starter.pdf",
+    "all/1-every-class/C0-conservation-starter.pdf",
+    "all/1-every-class/A0-archive-starter.pdf",
+    "l4/2-this-grade/I0-inscriptions-starter.pdf",
+    "l4/2-this-grade/S1-story-column.pdf",
+    "l4/2-this-grade/C1-menorah-blueprint.pdf",
+    "l4/2-this-grade/A1-prayer-of-contrasts.pdf",
+    "l4/2-this-grade/I1-coin.pdf",
+    "l4/2-this-grade/S2-storeroom.pdf",
+    "l4/2-this-grade/C2-cruse.pdf",
+    "l4/2-this-grade/A2-eight-days.pdf",
+    "l4/2-this-grade/I2-seal-or-impression.pdf"
+   ]
+  },
+  {
+   "edition": "l4",
+   "cat": "sidequests",
+   "pages": 9,
+   "files": [
+    "l4/2-this-grade/side-quest-cards.pdf"
+   ]
+  },
+  {
+   "edition": "l4",
+   "cat": "answers",
+   "pages": 10,
+   "files": [
+    "l4/3-teacher/exit-lock-answers.pdf",
+    "l4/3-teacher/S1-solution.pdf",
+    "l4/3-teacher/C1-solution.pdf",
+    "l4/3-teacher/A1-solution.pdf",
+    "older/3-teacher/I1-solution.pdf",
+    "l3/3-teacher/S2-solution.pdf",
+    "l3/3-teacher/C2-solution.pdf",
+    "l3/3-teacher/A2-solution.pdf",
+    "l3/3-teacher/I2-solution.pdf",
+    "older/3-teacher/F-solution.pdf"
+   ]
+  }
+ ]
+}
